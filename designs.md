@@ -26,3 +26,9 @@ What types of tubes are best to work with, given these targets?
 * sized for application
 * affordable material
 * matched to design ideals, so the product matches calculations
+
+## Technical Data
+Grab links to helpful technical data here. Sometimes these documents are not available online such as the user manual packaged with the actual product.  
+
+* [PDF fire extinguisher manual](docs/2023.11 Kiddie Manual.pdf) for kiddie household model
+* [PDF pneumatics catalog](docs/2023 Catalog - Insterstate Pneumatics.pdf) by Interstate pneumatics
