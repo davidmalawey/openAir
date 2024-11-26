@@ -1,4 +1,4 @@
 OpenAir Project
-* pneumatics designs
-* Sidebar in progress!
+* [gallery](gallery)
+* [tutorials](tutorials)
 * [designs](designs)
