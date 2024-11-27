@@ -13,7 +13,7 @@ More Open Source designs initiated by DM & SCUTTLE team:
 * [OpenArm](https://bit.ly/openarm)
 * [OpenJar](https://bit.ly/openjarproject_v1)
 * [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
+* [OpenSpin](https://bit.ly/openspinproject)
 * [OpenAir](https://bit.ly/openairproject)
 
 ## Scope
