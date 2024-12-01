@@ -1,8 +1,10 @@
 ## What is OpenAir?
 
-It's a collection of solutions for your pneumatics automation projects, with free designs, easy-to-find parts, and robust measurable performance.  Compared with other open-source pneumatics projects, this project is generalized to offer fundamentals, in digestible pieces.  For example, there may be an open source airbrush design on the web.  The design intention is to acheive a good airbrush performance and improve it through community.  In openAir, if we include an airbrush design it is so the users can borrow the components & concepts to port these assets into new projects.
+OpenAir is a collection of solutions for pneumatics design projects, with free designs, available parts, and robust, measurable performance.  Compared with other open-source designs, this project is more digestible for learners of fundamentals.  Here, you'll find modules instead of applications.  Or possibly, full applications from which users can borrow components & concepts to as assets in new projects.
 
-![openair banner image](img/img_banner1.jpg)
+<img src="img/img_banner1.jpg" alt="Description of image" height="350">
+
+
 _example items that are planned to be included, in one photo_
 
 
