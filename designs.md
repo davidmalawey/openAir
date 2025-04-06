@@ -13,6 +13,12 @@ Let's demonstrate the basic designs for storing pressurized air.
 * condensation & liquids
 * corrosion
 
+_Example: Propane bottle with 1.15L volume_
+► Go to GrabCAD files [grabcad_bottle](https://grabcad.com/library/bottle-1003)
+
+![propane bottle CAD model](img/img_bottle.jpg)
+
+
 ## Nozzles
 How do we select or design a nozzle to release pressure for a desired intention?
 * dusting
