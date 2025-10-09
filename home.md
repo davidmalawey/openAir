@@ -7,6 +7,9 @@ OpenAir is a collection of solutions for pneumatics design projects, with free d
 
 _example items that are planned to be included, in one photo_
 
+**Relationship to OpenLab Project**
+This initiative aims at demonstrating more air-driven functionality for designers with less resources, fewer materials, than I can presently find when observing prototyping efforts with pneumatics.  But this project will lag behind openLabProject for some time because the very scope of materials and resources belonging to the "ideal simple multifunctional lab" is still being refined.  OpenAir resides here as a "notice" that we mustn't exclude pneumatic designs from the achievable functions of openlab.  Also, it resides here as a fertile ground to plant airflow-related developments that stem out of OpenLabProject.  Pneumatics & airflow is so crucial to engineering and so beautifully accomodated by the tools in OpenLab that it naturally deserves a directed set of examples and methods posted, which can steer learners towards very nice outcomes instead of my-unguided-attempt types of outcomes.  So OpenLab will support OpenAir and OpenAir will enhance OpenLab, but as of 2025 the central effort is openLab. (2025.10 DM)
+
 
 ## Scope
 
