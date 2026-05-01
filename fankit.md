@@ -2,7 +2,7 @@ This section is for one complete design you can DIY at home for a **Portable Min
 
 - ![linked image 1](https://grabcad.com/screenshots/pics/4f56a883c54c5d1d7b17bc6bc5b17dba/original.JPG)
 - ![linked image 2](https://grabcad.com/screenshots/pics/464aac1533387c74e4982d23ad4b5705/original.JPG)
-- ![linkd image 3](https://grabcad.com/screenshots/pics/43be52de852c76a8c0cb53a534c2e9ac/original.JPG)
+- ![photo of fanKit version1](img/fankit_06.jpg)
 
 ## Download
 
