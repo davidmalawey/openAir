@@ -12,6 +12,29 @@ This section is for one complete design you can DIY at home for a **Portable Min
 > Inside is post you can find the PDF with many details about the design, and full parts list as of the April 2026 version.
 >
 
+## Parts
+The table below has links to all the parts we need to build the fan kit.  These are sourced from amazon except 2 or 3 parts.
+
+| Item           | Description               | Link                    | price | quantity |
+| -------------- | ------------------------- | ----------------------- | ----- | -------- |
+| Actuator       | Fan, 40mm                 | https://amzn.to/3OViaFw | 9.99  | 2        |
+| Switch         | mini switch, roller lever | https://amzn.to/4mSfl4A | 5.99  | 10       |
+| USB charger    | TP4056                    | https://amzn.to/4tlib45 | 5.99  | 6        |
+| DC boost       | MT3608                    | https://amzn.to/4mW9xqZ | 6.99  | 10       |
+| Wires          | 22 AWG single-core        | https://amzn.to/48mFqTC | 15.89 | 150 ft   |
+| Glass          | 24x76 microscope slide    | https://amzn.to/499wWPR | 7.99  | 50       |
+| Screws         | screws kit m2.5           | https://amzn.to/4u8TQiG | 6.58  | 540      |
+| Battery Holder | backup selection          | https://amzn.to/3Qzk8fr | 2.91  | 1        |
+
+Above, each part comes in a multipack that gives you useful circuits for coming projects.  These parts are highly useful for a broad range of electronics, and they were chosen very intentionally to give the user more parts on-hand that are highly relevant for DIY electronics.
+
+Two parts take a special effort to get the ideal model number. 
+**Battery** The selected 18650 cell that is recommended for peak performance & reliability is the panasonic NCR18650GA, from a great deal of testing and it's considered the Gold Standard for cells we use with SCUTTLE Robotics.  But, most builders will chose their own out of many cells on the market and that is OK as well.
+**Battery Tray** This unit is usually called a "battery cell holder" in the online shops but we call it a "tray" to differentiate it better.  Holder is too common of a term.  Most cheap no-brand trays implement a spiral spring and have less build quality, and no datasheet.  The specified tray for our project is made by Keystone and it's available at Mouser, Digikey, or other professional electronics distributors.  
+* Find [tray at Mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1043)
+* Or [tray at Digikey](https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669)
+
+
 ## Circuits
 Below, find the images of each component for the circuit in the fanKit.  The last image shows the original photo taken for the parts.  We can generate these clean graphics starting with the photo and asking Google Gemini "please generate an image for this part that is suitable for a technical diagram."
 
