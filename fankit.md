@@ -53,12 +53,12 @@ Photo 2 shows the selection of M2.5 fasteners and the heat set insert.  It's a b
 
 Photo 3 shows the recommended wire.  It's copper with a silver-looking nickel cladding, for easy manipulation, easy bending and stripping by hand.  In most projects we use stranded wire but for this project the wire is part of the design which holds the circuits in place and you can choose solid core 22 AWG for the easiest effort in building and soldering.
 
-- ![img1](fankit_14.jpg)
-- ![img1](fankit_13.jpg)
-- ![img1](fankit_15.jpg)
+- ![img1](img/fankit_14.jpg)
+- ![img1](img/fankit_13.jpg)
+- ![img1](img/fankit_15.jpg)
 
 In the first photo, see the circuits recessed in the printed fan body.  At this moment I had added a small bit of sticky tack to hold items in place while I fit wires and do assembly.  The next image has the two main circuit boards (PCBs) soldered together with two wires from input to output.  Beginners will find it easier with a longer length of wire, and with soldering practice you may chose a short length as shown and have a more compact result.  Lastly, see the front of the fan assembled without a cell.  The pocket behind the battery tray gives an access point to push the battery out.  When you wish to remove the battery, if it's hard to pull it from the tray you can insert a tool from behind to push it through this passage.
 
-- ![img1](fankit_11.jpg)
-- ![img1](fankit_01.jpg)
-- ![img1](fankit_08.jpg)
+- ![img1](img/fankit_11.jpg)
+- ![img1](img/fankit_01.jpg)
+- ![img1](img/fankit_08.jpg)
