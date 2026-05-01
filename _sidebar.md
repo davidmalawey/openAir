@@ -3,5 +3,5 @@ OpenAir Project
 * [gallery](gallery)
 * [tutorials](tutorials)
 * [designs](designs)
-* [fanKit](fanKit)
+* [fanKit](fankit)
 * [problems](problems)
