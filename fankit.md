@@ -47,6 +47,17 @@ Below, find the images of each component for the circuit in the fanKit.  The las
 - ![circuit image](img/circuit_tray.jpg)
 - ![placeholder](img/placeholder.jpg)
 
+## Fan
+The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of course you can choose any 40mm fan like the one listed on amazon, but the engineered selection from Same Sky (formerly CUI devices) has optimal performance, efficiency, and other engineering metrics.
+* volumetric flow: 11.88 CFM
+* voltage: 4.5-5.5v
+* peak power: 2.35W
+* noise: 34.2 dBA
+* see [manufacturer page](https://www.sameskydevices.com/product/thermal-management/dc-fans/axial-fans/cfm-4020cf-095-342)
+* price: $6.71 at Mouser
+
+- ![linked image](https://cdn.sameskydevices.com/products/image/getproductimage/662294)
+
 
 ## Build
 Follow along with the photos to build the kit. The key actuator is a 40mm fan, a standard for compact electronics & PC designs.  the first image shows the kit assembled with spare batteries.  The selected 18650 cell is a "protected cell" design, which is slightly less common than the plain version and usually has a taller tip including a round boss.  This makes better contact in a range of battery holders.
