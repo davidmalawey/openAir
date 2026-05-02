@@ -60,6 +60,11 @@ The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of
 - ![flow curve](img/fanKit_flow.jpg)
 - ![placeholder](img/placeHolder.jpg)
 
+### Omnicool Bearing Technology
+_See the embedded video below by the Same Sky engineers, explaining the unique bearing technology of this fan.  The rotor actually floats on an air cushion without any contact while operating, for extended life and reduced friction.  Super awesome tech!_
+
+<iframe width="600" src="https://www.youtube.com/embed/TigN6XDZNX8" title="Fan Bearing Types – Weighing the Pros and Cons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Charging
 The circuit for USB-C charging is based on **TP4056** which is a charging logic controller with other bits necessary to put it to work.  When a user plugs in the USB-c cable to the port, it charges up the battery and it features a few other behaviors that impact the user:
 * it can shut off the output terminal if there is an over-current condition
