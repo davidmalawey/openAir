@@ -58,6 +58,16 @@ The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of
 
 - ![linked image](https://cdn.sameskydevices.com/products/image/getproductimage/662294)
 
+## Charging
+The circuit for USB-C charging is based on **TP4056** which is a charging logic controller with other bits necessary to put it to work.  When a user plugs in the USB-c cable to the port, it charges up the battery and it features a few other behaviors that impact the user:
+* it can shut off the output terminal if there is an over-current condition
+* it can be reset by disconnecting load, connecting a healthy battery, and plugging in the charger for 3-5 seconds.
+* it indicates the charging status with red and green lights
+* it limits the input current to a specified amperage (maybe 1A) to the cell
+
+- ![linked image](https://m.media-amazon.com/images/I/61ehFKd+jKL._AC_SL1001_.jpg)
+- ![linked img2](https://m.media-amazon.com/images/I/619PoxQGFeL._AC_SL1001_.jpg)
+- ![linked img3](https://m.media-amazon.com/images/I/61ptQMn-VSL._AC_SL1001_.jpg)
 
 ## Build
 Follow along with the photos to build the kit. The key actuator is a 40mm fan, a standard for compact electronics & PC designs.  the first image shows the kit assembled with spare batteries.  The selected 18650 cell is a "protected cell" design, which is slightly less common than the plain version and usually has a taller tip including a round boss.  This makes better contact in a range of battery holders.
