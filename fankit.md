@@ -58,6 +58,7 @@ The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of
 
 - ![linked image](https://cdn.sameskydevices.com/products/image/getproductimage/662294)
 - ![flow curve](img/fanKit_flow.jpg)
+- ![placeholder](img/placeHolder.jpg)
 
 ## Charging
 The circuit for USB-C charging is based on **TP4056** which is a charging logic controller with other bits necessary to put it to work.  When a user plugs in the USB-c cable to the port, it charges up the battery and it features a few other behaviors that impact the user:
