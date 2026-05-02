@@ -9,7 +9,9 @@ This section is for one complete design you can DIY at home for a **Portable Min
 >
 > Visit the [FanKit on grabCAD](https://grabcad.com/library/fankit-2) to download the models.  This contains STL for printing and native CAD files.
 >
-> Inside is post you can find the PDF with many details about the design, and full parts list as of the April 2026 version.
+> ► Get [Design Data PDF](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/designData_2026.04.pdf) containing details about the design & parts selections.
+> ► Get the [Same Sky Fan Datasheet](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/DS_fan_CFM40CF.pdf) with our selected fan model and the specs for the model family.
+> ► Download the [design summary XLS file](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/fanKit_design_2026.04.xlsx) for the true source file for the design summary.
 >
 
 ## Parts
