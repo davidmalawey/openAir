@@ -50,6 +50,8 @@ Below, find the images of each component for the circuit in the fanKit.  The las
 **Circuit Diagram**
 Use the diagram below to set up your wiring connections.  I recommend 22AWG single-core wire with the colors as shown.  In the coming weeks this diagram will be improved with a key, and improved graphics with clean white background.  Then, that diagram gets uploaded so users can download a ready, accessible diagram which they can modify to create new adaptations!
 
+* Download the [fanKit diagram rev1](https://github.com/davidmalawey/openAir/blob/8b81472e8b10e201c998134184bab8b4b5eb24ca/docs/fankit/fanKit_v1.drawio) in .drawio file format
+
 ![image of fankit wiring diagram](img/circuit_diagram1.jpg)
 
 ## Fan
