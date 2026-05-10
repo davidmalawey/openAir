@@ -47,6 +47,11 @@ Below, find the images of each component for the circuit in the fanKit.  The las
 - ![circuit image](img/circuit_tray.jpg)
 - ![placeholder](img/placeholder.jpg)
 
+**Circuit Diagram**
+Use the diagram below to set up your wiring connections.  I recommend 22AWG single-core wire with the colors as shown.  In the coming weeks this diagram will be improved with a key, and improved graphics with clean white background.  Then, that diagram gets uploaded so users can download a ready, accessible diagram which they can modify to create new adaptations!
+
+![image of fankit wiring diagram](img/circuit_diagram1.jpg)
+
 ## Fan
 The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of course you can choose any 40mm fan like the one listed on amazon, but the engineered selection from Same Sky (formerly CUI devices) has optimal performance, efficiency, and other engineering metrics.
 * volumetric flow: 11.88 CFM
