@@ -52,7 +52,7 @@ Use the diagram below to set up your wiring connections.  I recommend 22AWG sing
 
 * Download the [fanKit diagram rev1](https://github.com/davidmalawey/openAir/blob/8b81472e8b10e201c998134184bab8b4b5eb24ca/docs/fankit/fanKit_v1.drawio) in .drawio file format
 
-![image of fankit wiring diagram](img/circuit_diagram1.jpg)
+![image of fankit wiring diagram](img/fankit_diagram2.1.jpg)
 
 ## Fan
 The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of course you can choose any 40mm fan like the one listed on amazon, but the engineered selection from Same Sky (formerly CUI devices) has optimal performance, efficiency, and other engineering metrics.
