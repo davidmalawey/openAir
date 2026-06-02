@@ -32,10 +32,10 @@ The table below has links to all the parts we need to build the fan kit.  These 
 Above, each part comes in a multipack that gives you useful circuits for coming projects.  These parts are highly useful for a broad range of electronics, and they were chosen very intentionally to give the user more parts on-hand that are highly relevant for DIY electronics.
 
 Two parts take a special effort to get the ideal model number. 
-**Battery** The selected 18650 cell that is recommended for peak performance & reliability is the panasonic NCR18650GA, from a great deal of testing and it's considered the Gold Standard for cells we use with SCUTTLE Robotics.  But, most builders will chose their own out of many cells on the market and that is OK as well.
+**Battery** The selected 18650 cell that is recommended for peak performance & reliability is the panasonic NCR18650GA, from heavy testing and it is a Gold Standard for cells among the SCUTTLE Robotics team.  But, most builders will chose their own out of many cells on the market and that is OK as well.
 **Battery Tray** This unit is usually called a "battery cell holder" in the online shops but we call it a "tray" to differentiate it better.  Holder is too common of a term.  Most cheap no-brand trays implement a spiral spring and have less build quality, and no datasheet.  The specified tray for our project is made by Keystone and it's available at Mouser, Digikey, or other professional electronics distributors.  
-* Find [tray at Mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1043)
-* Or [tray at Digikey](https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669)
+* Find [battery tray at Mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1043)
+* Find [battery tray at Digikey](https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669)
 
 
 ## Circuits
@@ -51,7 +51,7 @@ Below, find the images of each component for the circuit in the fanKit.  The las
 **Circuit Diagram**
 Use the diagram below to set up your wiring connections.  I recommend 22AWG single-core wire with the colors as shown.  In the coming weeks this diagram will be improved with a key, and improved graphics with clean white background.  Then, that diagram gets uploaded so users can download a ready, accessible diagram which they can modify to create new adaptations!
 
-* Download the [fanKit diagram rev1](https://github.com/davidmalawey/openAir/blob/8b81472e8b10e201c998134184bab8b4b5eb24ca/docs/fankit/fanKit_v1.drawio) in .drawio file format
+* Download [fanKit diagram rev1](https://github.com/davidmalawey/openAir/blob/8b81472e8b10e201c998134184bab8b4b5eb24ca/docs/fankit/fanKit_v1.drawio) in .drawio file format
 
 ![image of fankit wiring diagram](img/fanKit_diagram2.1.jpg)
 
@@ -91,12 +91,19 @@ Photo 2 shows the selection of M2.5 fasteners and the heat set insert.  It's a b
 
 Photo 3 shows the recommended wire.  It's copper with a silver-looking nickel cladding, for easy manipulation, easy bending and stripping by hand.  In most projects we use stranded wire but for this project the wire is part of the design which holds the circuits in place and you can choose solid core 22 AWG for the easiest effort in building and soldering.
 
-- ![img1](img/fankit_14.jpg)
-- ![img1](img/fankit_13.jpg)
-- ![img1](img/fankit_15.jpg)
+- ![img14](img/fankit_14.jpg)
+- ![img13](img/fankit_13.jpg)
+- ![img15](img/fankit_15.jpg)
 
 In the first photo, see the circuits recessed in the printed fan body.  At this moment I had added a small bit of sticky tack to hold items in place while I fit wires and do assembly.  The next image has the two main circuit boards (PCBs) soldered together with two wires from input to output.  Beginners will find it easier with a longer length of wire, and with soldering practice you may chose a short length as shown and have a more compact result.  Lastly, see the front of the fan assembled without a cell.  The pocket behind the battery tray gives an access point to push the battery out.  When you wish to remove the battery, if it's hard to pull it from the tray you can insert a tool from behind to push it through this passage.
 
-- ![img1](img/fankit_11.jpg)
-- ![img1](img/fankit_01.jpg)
-- ![img1](img/fankit_08.jpg)
+- ![img11](img/fankit_11.jpg)
+- ![img01](img/fankit_01.jpg)
+- ![img08](img/fankit_08.jpg)
+
+Lastly, some close-up photos show how the switch is mounted in the cutout of the fan body.  The glass which is optional is held by a screw, and this portion can use improvement.  Want to make a contribution?  Can you enhance the cover design to make the glass more secure?  Can you make a more elegant switch mechanism?  Some improvements were suggested in Youtube comments about this.  This is your chance to use your skills to make upgrades for yourself and others!
+
+
+- ![img, switch](img/fanKit09.jpg)
+- ![img, glass cover](img/fanKit04.jpg)
+- ![img, glass product](img/fanKit05.jpg)
