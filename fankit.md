@@ -104,6 +104,6 @@ In the first photo, see the circuits recessed in the printed fan body.  At this 
 Lastly, some close-up photos show how the switch is mounted in the cutout of the fan body.  The glass which is optional is held by a screw, and this portion can use improvement.  Want to make a contribution?  Can you enhance the cover design to make the glass more secure?  Can you make a more elegant switch mechanism?  Some improvements were suggested in Youtube comments about this.  This is your chance to use your skills to make upgrades for yourself and others!
 
 
-- ![img, switch](img/fanKit09.jpg)
-- ![img, glass cover](img/fanKit04.jpg)
-- ![img, glass product](img/fanKit05.jpg)
+- ![img, switch](img/fankit_09.jpg)
+- ![img, glass cover](img/fankit_04.jpg)
+- ![img, glass product](img/fankit_05.jpg)
