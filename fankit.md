@@ -1,4 +1,5 @@
-This section is for one complete design you can DIY at home for a **Portable Mini Fan.**
+# FanKit
+_One complete design you can DIY at home for a **Portable Mini Fan.**_
 
 - ![linked image 1](https://grabcad.com/screenshots/pics/4f56a883c54c5d1d7b17bc6bc5b17dba/original.JPG)
 - ![linked image 2](https://grabcad.com/screenshots/pics/464aac1533387c74e4982d23ad4b5705/original.JPG)
@@ -7,11 +8,11 @@ This section is for one complete design you can DIY at home for a **Portable Min
 ## Download
 
 >
-> Visit the [FanKit on grabCAD](https://grabcad.com/library/fankit-2) to download the models.  This contains STL for printing and native CAD files.
+> Visit the [FanKit on grabCAD](https://grabcad.com/library/fankit-2) to download the models.  This contains STL for printing and native CAD files. <br />
 >
-> ► Get [Design Data PDF](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/designData_2026.04.pdf) containing details about the design & parts selections.
-> ► Get the [Same Sky Fan Datasheet](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/DS_fan_CFM40CF.pdf) with our selected fan model and the specs for the model family.
-> ► Download the [design summary XLS file](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/fanKit_design_2026.04.xlsx) for the true source file for the design summary.
+> ► Get [Design Data PDF](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/designData_2026.04.pdf) containing details about the design & parts selections. <br />
+> ► Get the [Same Sky Fan Datasheet](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/DS_fan_CFM40CF.pdf) with our selected fan model and the specs for the model family. <br />
+> ► Download the [design summary XLS file](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/fanKit_design_2026.04.xlsx) for the true source file for the design summary. <br />
 >
 
 ## Parts
