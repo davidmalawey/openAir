@@ -36,5 +36,5 @@ What types of tubes are best to work with, given these targets?
 ## Technical Data
 Grab links to helpful technical data here. Sometimes these documents are not available online such as the user manual packaged with the actual product.  
 
-* [PDF fire extinguisher manual](docs/2023.11 Kiddie Manual.pdf) for kiddie household model
-* [PDF pneumatics catalog](docs/2023 Catalog - Insterstate Pneumatics.pdf) by Interstate pneumatics
+* download [Extinguisher manual, PDF](https://github.com/davidmalawey/openAir/blob/483d87a768151bd3c1f11496bcc842d590c9c468/docs/2023.11%20Kiddie%20Manual.pdf) for kiddie household model 
+* download [Pneumatics catalog, PDF](docs/2023 Catalog - Insterstate Pneumatics.pdf) by Interstate pneumatics
