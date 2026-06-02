@@ -1,7 +1,7 @@
 OpenAir Project
 * [Home](home)
-* [gallery](gallery)
-* [tutorials](tutorials)
-* [designs](designs)
-* [fanKit](fankit)
-* [problems](problems)
+* [Gallery](gallery)
+* [Tutorials](tutorials)
+* [Designs](designs)
+* [FanKit](fankit)
+* [Problems](problems)
