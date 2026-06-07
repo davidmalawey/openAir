@@ -33,9 +33,11 @@ Above, each part comes in a multipack that gives you useful circuits for coming 
 
 Two parts take a special effort to get the ideal model number. 
 **Battery** The selected 18650 cell that is recommended for peak performance & reliability is the panasonic NCR18650GA, from heavy testing and it is a Gold Standard for cells among the SCUTTLE Robotics team.  But, most builders will chose their own out of many cells on the market and that is OK as well.
-**Battery Tray** This unit is usually called a "battery cell holder" in the online shops but we call it a "tray" to differentiate it better.  Holder is too common of a term.  Most cheap no-brand trays implement a spiral spring and have less build quality, and no datasheet.  The specified tray for our project is made by Keystone and it's available at Mouser, Digikey, or other professional electronics distributors.  
+**Battery Tray** This unit is usually called a "battery cell holder" in the online shops but we call it a "tray" to differentiate it better.  Holder is too common of a term.  Most cheap no-brand trays implement a spiral spring and have less build quality, and no datasheet.  The specified tray for our project is **Keystone Part No 1043** found at Mouser, Digikey, or other electronics distributors.  
 * Find [battery tray at Mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1043)
 * Find [battery tray at Digikey](https://www.digikey.com/en/products/detail/keystone-electronics/1043/2745669)
+* Buy [1-cell tray at amazon](https://amzn.to/4foW75b), low-cost brand (4 for $10)
+* Buy [2-cell tray at amazon](https://amzn.to/4aieYvd), low-cost brand (2 for $10)
 
 
 ## Circuits
