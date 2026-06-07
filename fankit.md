@@ -116,3 +116,21 @@ Lastly, some close-up photos show how the switch is mounted in the cutout of the
 - ![img, switch](img/fankit_09.jpg)
 - ![img, glass cover](img/fankit_04.jpg)
 - ![img, glass product](img/fankit_05.jpg)
+
+---
+
+## Videos
+Featuring 3 short videos talk about this project!
+Quick Links, direct to youtube:
+* Youtube [example opensource](https://www.youtube.com/embed/sOureYswUMI)
+* Youtube [beginners in electronics](https://www.youtube.com/embed/Z3-GRpaetMU)
+* Youtube [best fasteners selection](https://www.youtube.com/embed/6MicwuqGZK8)
+
+**FanKit is Exemplary for Open Source Designs**
+<iframe width="400" src="https://www.youtube.com/embed/sOureYswUMI" title="what makes this fan design 10x better?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**FanKit, a perfect starter project for DIY Electronics**
+<iframe width="400" src="https://www.youtube.com/embed/Z3-GRpaetMU" title="DIY fan design - open source - educational project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**FanKit starts a strong hardware collection**
+<iframe width="485" height="863" src="https://www.youtube.com/embed/6MicwuqGZK8" title="Nobody realizes the strength of a tiny screw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
