@@ -1,5 +1,5 @@
 # FanKit
-_One complete design you can DIY at home for a **Portable Mini Fan.**_
+_Complete design you can DIY at home for a **Portable Mini Fan.**_
 
 - ![linked image 1](https://grabcad.com/screenshots/pics/4f56a883c54c5d1d7b17bc6bc5b17dba/original.JPG)
 - ![linked image 2](https://grabcad.com/screenshots/pics/464aac1533387c74e4982d23ad4b5705/original.JPG)
@@ -14,6 +14,8 @@ _One complete design you can DIY at home for a **Portable Mini Fan.**_
 > ► Get the [Same Sky Fan Datasheet](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/DS_fan_CFM40CF.pdf) with our selected fan model and the specs for the model family. <br />
 > ► Download the [design summary XLS file](https://github.com/davidmalawey/openAir/blob/5639191b52827fa7274df86ac855d2100650bbc3/docs/fankit/fanKit_design_2026.04.xlsx) for the true source file for the design summary. <br />
 >
+
+---
 
 ## Parts
 The table below has links to all the parts we need to build the fan kit.  These are sourced from amazon except 2 or 3 parts.
@@ -39,6 +41,7 @@ Two parts take a special effort to get the ideal model number.
 * Buy [1-cell tray at amazon](https://amzn.to/4foW75b), low-cost brand (4 for $10)
 * Buy [2-cell tray at amazon](https://amzn.to/4aieYvd), low-cost brand (2 for $10)
 
+--- 
 
 ## Circuits
 Below, find the images of each component for the circuit in the fanKit.  The last image shows the original photo taken for the parts.  We can generate these clean graphics starting with the photo and asking Google Gemini "please generate an image for this part that is suitable for a technical diagram."
@@ -57,6 +60,8 @@ Use the diagram below to set up your wiring connections.  I recommend 22AWG sing
 
 ![image of fankit wiring diagram](img/fanKit_diagram2.1.jpg)
 
+--- 
+
 ## Fan
 The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of course you can choose any 40mm fan like the one listed on amazon, but the engineered selection from Same Sky (formerly CUI devices) has optimal performance, efficiency, and other engineering metrics.
 * volumetric flow: 11.88 CFM
@@ -71,16 +76,18 @@ The engineered selection for the fan is **Same Sky model CFM4020CF-095-342.** Of
 - ![placeholder](img/placeHolder.jpg)
 
 ### Omnicool Bearing Technology
+The selected fan looks just like many others, but an engineering lens reveals a special technology that makes this fan quite advanced!  They developed a bearing technology that adds battery life to our design and years of durability to the fan component.
+
 _See the embedded video below by the Same Sky engineers, explaining the unique bearing technology of this fan.  The rotor actually floats on an air cushion without any contact while operating, for extended life and reduced friction.  Super awesome tech!_
 
 <iframe width="600" src="https://www.youtube.com/embed/TigN6XDZNX8" title="Fan Bearing Types – Weighing the Pros and Cons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Charging
-The circuit for USB-C charging is based on **TP4056** which is a charging logic controller with other bits necessary to put it to work.  When a user plugs in the USB-c cable to the port, it charges up the battery and it features a few other behaviors that impact the user:
-* it can shut off the output terminal if there is an over-current condition
-* it can be reset by disconnecting load, connecting a healthy battery, and plugging in the charger for 3-5 seconds.
-* it indicates the charging status with red and green lights
-* it limits the input current to a specified amperage (maybe 1A) to the cell
+The **TP4056 charging module** puts a charging logic controller into our design.  When a user plugs in the USB-c cable to the port, it charges up the battery and benfits the user with these added functions:
+* shut off the output terminal in an over-current condition
+* allow user-reset disconnecting load, connecting a healthy battery, and plugging in the charger for 3-5 seconds.
+* indicate charging status with red and green lights
+* limits the input to a healthy amperage (maybe 1A?) to the cell
 
 - ![linked image](https://m.media-amazon.com/images/I/61ehFKd+jKL._AC_SL1001_.jpg)
 - ![linked img2](https://m.media-amazon.com/images/I/619PoxQGFeL._AC_SL1001_.jpg)
