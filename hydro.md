@@ -14,7 +14,9 @@ Configure a minimal working hydraulic circuit for the 1k-2k PSI range which has 
 8. Record any special notes necessary to operate tools & configure the system.
 9. Include results, parts, links, and images in the Open Source Repository
 
-![image, hydraulic press]
+- ![image, hydraulic press](img/hydro_press1.jpg)
+- ![img press manual](img/hydro_manual.jpg)
+- ![img press pump](img/hydro_pump1.jpg)
 
 ## Parts
 
