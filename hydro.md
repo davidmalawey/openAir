@@ -2,7 +2,21 @@ Openair ► Hydro (hydraulics)
 
 _This section is for hydraulic system design.  Documentation will be accumulated here and moved to a dedicated repository when it expands._
 
-## PARTS
+## Goals:
+Configure a minimal working hydraulic circuit for the 1k-2k PSI range which has a pump, pressure lines, and hydraulic cylinder.  Connect the system to drive the hydraulic press unit at equal or greater speed than the manual operation of the hand-lever pump which was included in the Hydraulic Press setup from 2018.
+1. Measure the manual system to establish rough targets.
+2. Record key specifications for goals, then source components to upgrade to a rotating pump.
+3. Select lines & brackets or design elements to fix the rotary pump as the user desires.
+4. Choose components for maximal value and wide availability.
+5. Operate the pump in the simplest way available, & measure performance.
+6. Summarize key performance metrics & limits for components.
+7. Source tools, and combine instructions for required tools.
+8. Record any special notes necessary to operate tools & configure the system.
+9. Include results, parts, links, and images in the Open Source Repository
+
+![image, hydraulic press]
+
+## Parts
 
 July 2026:  A simple circuit for hydraulic high pressure system under development.
 
@@ -14,7 +28,6 @@ The pump comes from a Corolla Power Steering System, (my 1998-2002).  System com
 * Power Steering Lines [Aftermarket Hi/Lo pressure lines with AN6 fittings](https://amzn.to/3T5mPXq) for aftermarket universal systems.
 * Brake Master Cylinder [Master Cylinder 98 Corolla](https://amzn.to/4vC3ASE) about $30
 * Banjo Bolt [M16 banjo Bolt](https://amzn.to/4w6GCnO) hi pressure outlet of ps pump
-
 
 
 **Concept**
@@ -35,5 +48,6 @@ The tools involve some special tools for flare fittings to begin with.
 * Pro Flaring [Kit with dies](https://amzn.to/3R3dU8l) is an option with faster work, vice-mounted flaring tool, with swing arm and dies for single + double + bubble flares, 3 sizes of tubing.
 
 _below, images for simple tubing kit and pro flaring kit_
-![tubing bender kit](https://m.media-amazon.com/images/I/71ors8iaWQL._AC_SL1500_.jpg)
-![flaring kit](https://m.media-amazon.com/images/I/71PNOI6UTlL._AC_SL1500_.jpg)
+- ![tubing bender kit img](https://m.media-amazon.com/images/I/71ors8iaWQL._AC_SL1500_.jpg)
+- ![flaring kit img](https://m.media-amazon.com/images/I/71PNOI6UTlL._AC_SL1500_.jpg)
+- ![straightener img](https://m.media-amazon.com/images/I/71x4afcnXXL._AC_SL1500_.jpg)
